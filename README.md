@@ -1,6 +1,8 @@
 # Hospital-management-python-
 This hospital management project is made using the tkinter and sqlite in python 
 
+Author: Panagiotis Georgiadis
+
 login.py file contains the code for login page ( username and password is there in file itself)
 window2.py file contains the code for menu 
 PATDELSU.py file contains the code for the registtration, updation and deletion of patient records
